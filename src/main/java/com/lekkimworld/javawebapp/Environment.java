@@ -1,4 +1,4 @@
-package net.javaguides.mavenwebapp;
+package com.lekkimworld.javawebapp;
 
 import java.io.IOException;
 import java.io.InputStream;
